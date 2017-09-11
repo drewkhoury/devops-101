@@ -43,3 +43,7 @@ Misc:
 
 - [Why the Best Companies and Developers Give Away Almost Everything They Do
 ](http://blog.ycombinator.com/why-the-best-give-away/)
+
+Communities
+
+- [DevOps Forum](https://devops-forum.slack.com)
