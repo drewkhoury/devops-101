@@ -40,9 +40,10 @@ Misc:
 
 - [xebialabs - release and deployment pipeline](https://xebialabs.com/solutions/devops/)
 
-
 - [Why the Best Companies and Developers Give Away Almost Everything They Do
 ](http://blog.ycombinator.com/why-the-best-give-away/)
+
+- [The twelve-factor App](https://12factor.net/)
 
 Communities
 
