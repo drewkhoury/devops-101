@@ -67,3 +67,5 @@ https://gist.github.com/andreicristianpetcu/b892338de279af9dac067891579cad7d - A
 https://www.ansible.com/blog/ansible-best-practices-essentials - Best practices
 
 https://serversforhackers.com/c/an-ansible2-tutorial - Detailed Ansible tutorial with explaination and code.
+
+https://gist.github.com/phred/2897937 - pedantically commented playbook
