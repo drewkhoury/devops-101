@@ -54,6 +54,10 @@
 
 ### Cloud
 
+https://infrastructure.aws/
+
+https://www.awsgeek.com/
+
 https://docs.microsoft.com/en-us/azure/architecture/aws-professional/ - This article helps Amazon Web Services (AWS) experts understand the basics of Microsoft Azure accounts, platform, and services. It also covers key similarities and differences between the AWS and Azure platforms.
 
 ### Markdown
