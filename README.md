@@ -52,7 +52,47 @@
 
 ## Technology
 
+### Markdown
+
+https://guides.github.com/features/mastering-markdown/
+
+### Git
+
+Git basics: https://git-scm.com/book/en/v1/Getting-Started-Git-Basics
+
+Super Simple git demo: https://rogerdudler.github.io/git-guide/
+
+https://help.github.com/en - Lots of articles/guides to explore
+
+Visual guide to git: http://marklodato.github.io/visual-git-guide/index-en.html
+
+https://try.github.io/ - Interactive guides
+
+https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/ - Guide guide with pictures and commands via a step by step guide
+
+https://guides.github.com/introduction/git-handbook/ - Git/Github guide
+
+Cheatsheets:
+
+- https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
+- https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+- https://about.gitlab.com/images/press/git-cheat-sheet.pdf (includes diagrams)
+
+Branching:
+
+https://guides.github.com/introduction/flow/ - Git branching
+https://nvie.com/posts/a-successful-git-branching-model/ - Popular (but now quite old) branching model
+
+https://www.nebbiatech.com/2019/03/15/git-branching-strategies-which-one-should-i-pick/ - compare branching
+
+
+https://www.slideshare.net/BosniaAgile/managing-software-product-versioning-with-gitflow-vsts-and-atlassian-sourcetree
+
+https://www.endoflineblog.com/gitflow-considered-harmful
+
 ### Ansible
+
+https://docs.google.com/presentation/d/1jIsDHf-5M1w_KWAyU_R5Uv-iHwvRntUb4cC3yBW3_ME/ - Ansible 101 Presentation
 
 http://docs.ansible.com/ansible/latest/index.html - Ansible Documentation
 http://docs.ansible.com/ansible/latest/modules_by_category.html - Module categories
@@ -61,6 +101,8 @@ http://docs.ansible.com/ansible/latest/YAMLSyntax.html - YAML Syntax ... read th
 http://docs.ansible.com/ansible/latest/playbooks.html - Ansible Playbooks
 
 https://zaiste.net/posts/ansible_101/ - A nice 5 minute hands-on intro to Ansible
+
+https://medium.com/@denot/ansible-101-d6dc9f86df0a - 10 Min Ansible overview/intro
 
 https://gist.github.com/andreicristianpetcu/b892338de279af9dac067891579cad7d - Ansible cheatsheet, a great reference point for just about any bit of Ansible code you'd need to write
 
