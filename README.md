@@ -66,19 +66,13 @@ https://guides.github.com/features/mastering-markdown/
 
 ### Git
 
-Git basics: https://git-scm.com/book/en/v1/Getting-Started-Git-Basics
-
-Super Simple git demo: https://rogerdudler.github.io/git-guide/
-
-https://help.github.com/en - Lots of articles/guides to explore
-
-Visual guide to git: http://marklodato.github.io/visual-git-guide/index-en.html
-
-https://try.github.io/ - Interactive guides
-
-https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/ - Guide guide with pictures and commands via a step by step guide
-
-https://guides.github.com/introduction/git-handbook/ - Git/Github guide
+- Git basics: https://git-scm.com/book/en/v1/Getting-Started-Git-Basics
+- Super Simple git demo: https://rogerdudler.github.io/git-guide/
+- https://help.github.com/en - Lots of articles/guides to explore
+- Visual guide to git: http://marklodato.github.io/visual-git-guide/index-en.html
+- https://try.github.io/ - Interactive guides
+- https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/ - Guide guide with pictures and commands via a step by step guide
+- https://guides.github.com/introduction/git-handbook/ - Git/Github guide
 
 Cheatsheets:
 
@@ -86,7 +80,7 @@ Cheatsheets:
 - https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
 - https://about.gitlab.com/images/press/git-cheat-sheet.pdf (includes diagrams)
 
-Branching:
+**Branching:**
 
 Choosing a branching strategy will be something personal to your team and tailored your team's maturity.
 
@@ -96,13 +90,12 @@ Consdier: trunk based dev > github flow > gitlab flow > anything else
 - https://guides.github.com/introduction/flow/ - Github flow
 - https://docs.gitlab.com/ee/workflow/gitlab_flow.html - Gitlab flow
 
-https://nvie.com/posts/a-successful-git-branching-model/ - Popular (but now quite old) branching model
+Other info: 
 
-https://www.nebbiatech.com/2019/03/15/git-branching-strategies-which-one-should-i-pick/ - compare branching
-
-https://www.slideshare.net/BosniaAgile/managing-software-product-versioning-with-gitflow-vsts-and-atlassian-sourcetree
-
-https://www.endoflineblog.com/gitflow-considered-harmful
+- https://nvie.com/posts/a-successful-git-branching-model/ - Popular (but now quite old) branching model
+- https://www.nebbiatech.com/2019/03/15/git-branching-strategies-which-one-should-i-pick/ - compare branching
+- https://www.slideshare.net/BosniaAgile/managing-software-product-versioning-with-gitflow-vsts-and-atlassian-sourcetree
+- https://www.endoflineblog.com/gitflow-considered-harmful
 
 ### Ansible
 
