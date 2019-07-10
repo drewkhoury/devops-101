@@ -88,11 +88,17 @@ Cheatsheets:
 
 Branching:
 
-https://guides.github.com/introduction/flow/ - Git branching
+Choosing a branching strategy will be something personal to your team and tailored your team's maturity.
+
+Consdier: trunk based dev > github flow > gitlab flow > anything else
+
+- https://trunkbaseddevelopment.com/ - Trunk
+- https://guides.github.com/introduction/flow/ - Github flow
+- https://docs.gitlab.com/ee/workflow/gitlab_flow.html - Gitlab flow
+
 https://nvie.com/posts/a-successful-git-branching-model/ - Popular (but now quite old) branching model
 
 https://www.nebbiatech.com/2019/03/15/git-branching-strategies-which-one-should-i-pick/ - compare branching
-
 
 https://www.slideshare.net/BosniaAgile/managing-software-product-versioning-with-gitflow-vsts-and-atlassian-sourcetree
 
