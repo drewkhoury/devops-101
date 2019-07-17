@@ -52,6 +52,12 @@
 
 ## Technology
 
+Interactive "Playgrounds" in your browser: https://www.katacoda.com/
+
+### Docker
+
+https://www.katacoda.com/courses/docker/
+
 ### Cloud
 
 https://infrastructure.aws/
@@ -98,6 +104,8 @@ Other info:
 - https://www.endoflineblog.com/gitflow-considered-harmful
 
 ### Ansible
+
+Interactive "Playground" in your browser: https://www.katacoda.com/courses/ansible/
 
 https://docs.google.com/presentation/d/1jIsDHf-5M1w_KWAyU_R5Uv-iHwvRntUb4cC3yBW3_ME/ - Ansible 101 Presentation
 
