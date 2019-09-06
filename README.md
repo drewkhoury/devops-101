@@ -79,6 +79,7 @@ https://guides.github.com/features/mastering-markdown/
 - https://try.github.io/ - Interactive guides
 - https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/ - Guide guide with pictures and commands via a step by step guide
 - https://guides.github.com/introduction/git-handbook/ - Git/Github guide
+- https://books.goalkicker.com/GitBook/ (The Git® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow.)
 
 Cheatsheets:
 
