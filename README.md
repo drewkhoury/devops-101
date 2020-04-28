@@ -54,9 +54,41 @@
 
 Interactive "Playgrounds" in your browser: https://www.katacoda.com/
 
-### Docker
+
+### Containers
+
+Containers are an amazing innovation that have many every day uses. They can be used locally, in your build servers, for development and production deployments. You can also use them to test new services and keep your laptop free of clutter!
+How to build, test and deploy modern code in a repeatable fashion: https://3musketeers.io/
+
+#### Docker
+
+https://en.m.wikipedia.org/wiki/Docker_(software)
 
 https://www.katacoda.com/courses/docker/
+
+#### Kubernetes (k8s)
+
+Intros:
+
+- https://en.m.wikipedia.org/wiki/Kubernetes
+- https://danlebrero.com/2018/07/09/kubernetes-explained-in-pictures-the-theme-park-analogy/
+- https://youtu.be/Q4W8Z-D-gcQ
+- https://youtu.be/R9-SOzep73w
+
+k8s documentation:
+
+- https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
+- https://kubernetes.io/docs/concepts/workloads/pods/pod-overview/
+- https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/
+- https://kubernetes.io/docs/concepts/configuration/configmap/
+- https://kubernetes.io/docs/reference/kubectl/cheatsheet/#interacting-with-running-pods
+
+
+learn k8s interactivly:
+
+- https://www.katacoda.com/courses/kubernetes
+- https://www.katacoda.com/courses/kubernetes/playground
+- https://katacoda.com/contino
 
 ### Cloud
 
@@ -127,3 +159,4 @@ https://www.ansible.com/blog/ansible-best-practices-essentials - Best practices
 https://serversforhackers.com/c/an-ansible2-tutorial - Detailed Ansible tutorial with explaination and code.
 
 https://gist.github.com/phred/2897937 - pedantically commented playbook
+
