@@ -94,6 +94,7 @@ more k8s:
 
 - https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-organizing-with-namespaces
 - https://github.com/ramitsurana/awesome-kubernetes
+- https://stripe.com/blog/operating-kubernetes
 
 **request and limits:**
 
