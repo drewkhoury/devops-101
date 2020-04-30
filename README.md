@@ -90,6 +90,10 @@ learn k8s interactivly:
 - https://www.katacoda.com/courses/kubernetes/playground
 - https://katacoda.com/contino
 
+more k8s:
+
+- https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-organizing-with-namespaces
+
 ### Cloud
 
 https://infrastructure.aws/
