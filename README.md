@@ -95,6 +95,22 @@ more k8s:
 - https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-organizing-with-namespaces
 - https://github.com/ramitsurana/awesome-kubernetes
 
+request and limits:
+
+https://jaxenter.com/manage-container-resource-kubernetes-141977.html
+A request is the amount of that resources that the system will guarantee for the container, and Kubernetes will use this value to decide on which node to place the pod.
+
+A limit is the maximum amount of resources that Kubernetes will allow the container to use.
+
+In the case that request is not set for a container, it defaults to limit.
+
+If limit is not set, then if defaults to 0 (unbounded).
+
+Setting request < limits allows some over-subscription of resources as long as there is spare capacity. This is part of the intelligence built into the Kubernetes scheduler.
+
+https://jaxenter.com/wp-content/uploads/2018/03/container-resource-1.png
+
+
 ### Cloud
 
 https://infrastructure.aws/
