@@ -5,7 +5,7 @@ https://ethereum.org/en/nft/
 [How to Buy and Sell NFTs For Profit (Complete Guide)](https://www.youtube.com/watch?v=9yrj2iSuI38)
   - https://opensea.io/ (NFT marketplace)
   - https://metamask.io/ (Eth wallet)
-  - https://www.kucoin.com/ucenter/signup?rcode=rJMS45S (signup using the ref code from the youtube guy)
+  - https://www.kucoin.com/ucenter/signup?rcode=r3SB1NX (signup using my ref code)
 
 You need to load real money $$$ into an account like kucoin/coinbase (with your c/c, bank acc or paypal etc).
 Once you tranfer your money into Eth and it's in your kucoin/coinbase account, you can withdraw it onto your metamask wallet...
