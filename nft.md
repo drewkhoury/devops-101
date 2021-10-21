@@ -28,7 +28,7 @@ Other info:
 
 [NFT Explained In 5 Minutes | What Is NFT? - Non Fungible Token | NFT Crypto Explained | Simplilearn](https://www.youtube.com/watch?v=NNQLJcJEzv0)
 
-https://www.coinbase.com/ - They manage your crypto in their wallets which makes it easier but they do have a high fee. The cool thing about coinbase is they give you free crypto for watching education videos about it. 
+https://www.coinbase.com/join/TU6K8F - They manage your crypto in their wallets which makes it easier but they do have a high fee. The cool thing about coinbase is they give you free crypto for watching education videos about it.
 
 - join with my link so we both get cypto! https://www.coinbase.com/join/TU6K8F
 
