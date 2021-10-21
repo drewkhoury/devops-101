@@ -36,4 +36,4 @@ https://www.binance.us/ - Buy, Sell, and Trade Cryptocurrencies
 
 https://metamask.io/ - Metamask is a browser extention which is an ethereum wallet. It let's you trade a lot of eth tokens back and forth that aren't otherwise listed on exchanges. You'll need to already have some eth or some eth based token to transfer to your wallet before you can use it though
 
-robinhood - Robinhood doesn't actually give you access to a wallet though so you can't actually use your crypto there, just buy or sell to and from USD.
+https://join.robinhood.com/andrewk5619 - Robinhood doesn't actually give you access to a wallet so you can't actually use your crypto there, just buy or sell to and from USD
