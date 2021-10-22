@@ -16,6 +16,14 @@ Once you tranfer your money into Eth and it's in your kucoin/coinbase account, y
 
 You need to convert ETH to WTH before you can make a bid on https://opensea.io/
 
+# Getting money into a crypto account
+
+Services like coinbase, kucoin, wyre via metamask etc will allow you to transfer money from your bank account/cards, however:
+
+- credit cards (some banks may deny this as a policy, or just trigger it as fraud and you may need to call to unblock the transaction)
+- debit cards -  may be an easier option (but only for small amounts unless the service allows you to up the limit)
+- wire transfer or connect to your bank will give the opporutnity for more funds to be transfered
+
 # Misc
 
 Notes:
