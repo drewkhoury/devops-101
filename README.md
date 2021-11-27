@@ -9,6 +9,12 @@ https://martinfowler.com/ - Everything Martin produces is DevOps/Agile gold!
 - https://martinfowler.com/articles/developer-effectiveness.html
 - https://martinfowler.com/delivery.html
 
+## DevOps Capabilities from Google
+
+Definitions and examples/context for every part of DevOps, from Google.
+
+https://cloud.google.com/architecture/devops/capabilities
+
 ## Definitions
 - [DevOps defined by wikipedia](https://en.wikipedia.org/wiki/DevOps)
 - [DevOps defined by AWS](https://aws.amazon.com/devops/what-is-devops/)
