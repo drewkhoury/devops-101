@@ -1,4 +1,10 @@
+See more on my site: https://www.drewkhoury.com/
+
 # devops-101
+
+## Thought leaders
+
+https://martinfowler.com/ - this is DevOps/Agile gold!
 
 ## Definitions
 - [DevOps defined by wikipedia](https://en.wikipedia.org/wiki/DevOps)
