@@ -4,7 +4,10 @@ See more on my site: https://www.drewkhoury.com/
 
 ## Thought leaders
 
-https://martinfowler.com/ - this is DevOps/Agile gold!
+https://martinfowler.com/ - Everything Martin produces is DevOps/Agile gold!
+
+- https://martinfowler.com/articles/developer-effectiveness.html
+- https://martinfowler.com/delivery.html
 
 ## Definitions
 - [DevOps defined by wikipedia](https://en.wikipedia.org/wiki/DevOps)
