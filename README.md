@@ -2,18 +2,17 @@ See more on my site: https://www.drewkhoury.com/
 
 # devops-101
 
-## Thought leaders
-
-https://martinfowler.com/ - Everything Martin produces is DevOps/Agile gold!
+These websites shaped my understanding and thoughts of the industry:
 
 - https://martinfowler.com/articles/developer-effectiveness.html
+  - and thus `Accelerate` and the `State of DevOps report`
 - https://martinfowler.com/delivery.html
-
-## DevOps Capabilities from Google
-
-Definitions and examples/context for every part of DevOps, from Google.
-
-https://cloud.google.com/architecture/devops/capabilities
+  - and thus `Extreme Programming`, `Continuous Integration` and related topics
+- https://trunkbaseddevelopment.com/
+- https://web.devopstopologies.com/
+- https://cloud.google.com/architecture/devops/capabilities
+  - a broad range of topics around version control, trunk-based development, CI, deployment automation, testing, delivery, test data management, shifting-left on security ...  very detailed and well put together
+- [Agile Product Ownership in a Nutshell video](https://www.youtube.com/watch?v=502ILHjX9EE)
 
 ## Definitions
 - [DevOps defined by wikipedia](https://en.wikipedia.org/wiki/DevOps)
@@ -28,36 +27,23 @@ https://cloud.google.com/architecture/devops/capabilities
 ## Lists
 
 - [AcalephStorage :: Awesome DevOps](https://github.com/AcalephStorage/awesome-devops) - A curated list of resources for Devops
-
 - [joubertredrat :: Awesome DevOps](https://github.com/joubertredrat/awesome-devops) - This is the awesome list with all open source and free applications that you can use in your management.
-
 - [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 
 ## Misc
 - [How to annoy a web developer](https://github.com/omidfi/how-to-annoy-a-web-developer/blob/master/README.md) - A list of tips on How to annoy web developers, hopefully for knowing and avoiding them.
-
 - [DevOps Types and Anti-Types](http://web.devopstopologies.com/)
-
 - [Atlassian Toolchain](https://www.atlassian.com/blog/devops/how-to-choose-devops-tools)
-
 - [GitHub DevOps Tools Showcase](https://github.com/showcases/devops-tools)
-
 - [gitflow](http://nvie.com/posts/a-successful-git-branching-model/)
-
 - [DevOps Checklist](http://devopschecklist.com/)
-
 - [15 Point Checklist](https://medium.com/devopslinks/the-15-point-devops-check-list-8cd2afb4a448)
-
 - [The Must Know Checklist For DevOps & Site Reliability Engineers
 ](https://hackernoon.com/the-must-know-checklist-for-devops-system-reliability-engineers-f74c1cbf259d)
-
 - [xebialabs periodic-table-of-devops-tools](https://xebialabs.com/periodic-table-of-devops-tools/)
-
 - [xebialabs - release and deployment pipeline](https://xebialabs.com/solutions/devops/)
-
 - [Why the Best Companies and Developers Give Away Almost Everything They Do
 ](http://blog.ycombinator.com/why-the-best-give-away/)
-
 - [The twelve-factor App](https://12factor.net/)
 
 ## Communities
@@ -69,7 +55,6 @@ https://cloud.google.com/architecture/devops/capabilities
 
 Interactive "Playgrounds" in your browser: https://www.katacoda.com/
 
-
 ### Containers
 
 Containers are an amazing innovation that have many every day uses. They can be used locally, in your build servers, for development and production deployments. You can also use them to test new services and keep your laptop free of clutter!
@@ -77,9 +62,8 @@ How to build, test and deploy modern code in a repeatable fashion: https://3musk
 
 #### Docker
 
-https://en.m.wikipedia.org/wiki/Docker_(software)
-
-https://www.katacoda.com/courses/docker/
+- https://en.m.wikipedia.org/wiki/Docker_(software)
+- https://www.katacoda.com/courses/docker/
 
 #### Kubernetes (k8s)
 
@@ -127,26 +111,21 @@ Setting request < limits allows some over-subscription of resources as long as t
 
 ![request-and-limit](https://jaxenter.com/wp-content/uploads/2018/03/container-resource-1.png "request-and-limit")
 
-
-
-
 ### Cloud
 
-https://infrastructure.aws/
-
-https://www.awsgeek.com/
-
-https://docs.microsoft.com/en-us/azure/architecture/aws-professional/ - This article helps Amazon Web Services (AWS) experts understand the basics of Microsoft Azure accounts, platform, and services. It also covers key similarities and differences between the AWS and Azure platforms.
+- https://infrastructure.aws/
+- https://www.awsgeek.com/
+- https://docs.microsoft.com/en-us/azure/architecture/aws-professional/ - This article helps Amazon Web Services (AWS) experts understand the basics of Microsoft Azure accounts, platform, and services. It also covers key similarities and differences between the AWS and Azure platforms.
 
 #### IaC / Terraform
 
-https://terraform-cheatsheet.uk/
-https://github.com/contino/tc-vpc
-https://github.com/docnetwork/Infra-as-code-challenge
+- https://terraform-cheatsheet.uk/
+- https://github.com/contino/tc-vpc
+- https://github.com/docnetwork/Infra-as-code-challenge
 
 ### Markdown
 
-https://guides.github.com/features/mastering-markdown/
+- https://guides.github.com/features/mastering-markdown/
 
 ### Git
 
