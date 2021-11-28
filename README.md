@@ -1,4 +1,4 @@
-See more on my site: https://www.drewkhoury.com/
+See more on my site: https://www.drewkhoury.com/tags/devops/
 
 # devops-101
 
