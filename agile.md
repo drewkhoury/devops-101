@@ -1,5 +1,8 @@
 # Agile
 
+## Agile Software Development
+Agile Software Development (including XP which touches on TDD, Refactoring, Continuous Integration, Pair Programming, Sustainable Pace, Collective Ownership): https://www.contino.io/insights/agile-software-development
+
 ## Retrospective
 
 ### Agile Principles - Reflect
