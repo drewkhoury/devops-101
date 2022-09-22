@@ -1,3 +1,10 @@
+# Best Practices
+
+- Testing Pyramid (How to Use the Testing Pyramid to Fail Fast and Reduce Risk): https://www.contino.io/insights/the-testing-pyramid
+- Test Driven Development: https://www.contino.io/insights/test-driven-development
+- Testing APIs (contract testing): https://www.contino.io/insights/testing-strategy-APIs
+
+
 # Testing Basics
 
 - https://martinfowler.com/articles/practical-test-pyramid.html
