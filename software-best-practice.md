@@ -1,4 +1,22 @@
-# Software Best Practices
+# Thought leadership and industry influence (key links and concepts)
+
+rooted in proven engineering practices:
+- https://martinfowler.com/delivery.html - and thus `Extreme Programming`, `Continuous Integration` and related topics
+- https://continuousdelivery.com/
+- https://trunkbaseddevelopment.com/
+- https://martinfowler.com/articles/developer-effectiveness.html - and thus `Accelerate` and the `State of DevOps report`
+- https://cloud.google.com/architecture/devops/capabilities - a broad range of topics around version control, trunk-based development, CI, deployment automation, testing, delivery, test data management, shifting-left on security ...  very detailed and well put together
+
+teams/people/process:
+- https://web.devopstopologies.com/
+- [Agile Product Ownership in a Nutshell video](https://www.youtube.com/watch?v=502ILHjX9EE)
+
+opinionated systems/frameworks:
+- https://github.com/drewkhoury/minimum-viable-delivery
+- https://minimumcd.org/minimumcd/
+- https://successengineering.works/amplio-dev-book/
+
+# Software Best Practices (deeper dive / more links and context)
 
 - Good Software Delivery (Covering Developer Effectiveness, DevOps as a culture, Product thinking, Extreme Programming, Continuous Integration, Continuous Delivery and demo apps that show the principals in practice): https://www.drewkhoury.com/categories/gsd/
 
